@@ -1,3 +1,8 @@
 <resources>
+    <string name="close_text">Скрыть текст</string>
+    <string name="red">Красный</string>
+    <string name="black">Черный</string>
+    <string name="author">Об авторе</string>
+    <string name="student">Колтыга Валерий Евгеньевич, 3-ТИД-7</string>
     <string name="app_name">multy-lab-9</string>
 </resources>
